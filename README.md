@@ -50,7 +50,7 @@ Give me 5 anchor prompts I can reuse for PRD planning, implementation, review fe
 Copy the skill folder into your Codex skills directory:
 
 ```text
-skill/ai-anchor-prompting
+skills/ai-anchor-prompting
 ```
 
 The skill folder contains:
