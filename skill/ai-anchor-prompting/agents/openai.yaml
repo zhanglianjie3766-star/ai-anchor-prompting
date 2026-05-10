@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI 锚点提问法 / AnchorFlow"
+  short_description: "Guides complex AI projects with anchor prompts, phase boundaries, branch windows, and confirmation gates."
+  brand_color: "#0F766E"
+  default_prompt: "Use $ai-anchor-prompting to guide this project with AI 锚点提问法: end-state anchor, phase split, scope classification, and copyable anchor prompts."
+policy:
+  allow_implicit_invocation: true
