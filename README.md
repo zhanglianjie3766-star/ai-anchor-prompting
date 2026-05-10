@@ -1,8 +1,10 @@
 # AI 锚点提问法
 
-**AI 锚点提问法（AnchorFlow）** is a Codex skill for running complex AI-assisted work with clear stages, copyable anchor prompts, branch-window rules, and confirmation gates.
+**AI 锚点提问法（AnchorFlow）** is a Codex skill and AI collaboration protocol for running complex AI-assisted projects with clear stages, copyable anchor prompts, branch-window rules, phase boundaries, and confirmation gates.
 
 It helps users stop handing vague, shifting requirements to AI agents. Instead, every project gets a stable collaboration protocol: define the end state, split phases, decide what to build now, mark what to prewire only, and keep side quests out of the main thread.
+
+Keywords: Codex skill, Agent Skills, AI collaboration, human-AI collaboration, prompt engineering, anchor prompts, AnchorFlow, AI workflow, AI project workflow, AI-assisted development, product requirements, PRD planning, MVP planning, scope control, branch conversations, human-in-the-loop AI, AI product management, agent-assisted workflow.
 
 ## What It Does
 
@@ -78,6 +80,20 @@ One-line description:
 
 ```text
 A collaboration protocol for complex AI projects using anchor prompts, phase boundaries, branch windows, and confirmation gates.
+```
+
+## GitHub About
+
+Suggested repository description:
+
+```text
+A Codex skill for complex AI projects using anchor prompts, phase boundaries, branch windows, and confirmation gates.
+```
+
+Suggested topics:
+
+```text
+codex-skill, agent-skills, ai-collaboration, prompt-engineering, anchorflow, ai-workflow
 ```
 
 ## License
